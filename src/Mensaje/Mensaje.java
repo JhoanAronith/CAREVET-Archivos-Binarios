@@ -15,7 +15,7 @@ public class Mensaje {
         return respuesta;
     }
     
-    //Mensaje normal
+    //Mensaje de diálogo 
     public static void Texto(String mensaje) {
         JOptionPane.showMessageDialog(null, mensaje);
     }
